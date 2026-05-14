@@ -15,13 +15,13 @@ twitter:
 facebook:
   app_id: 345444188982280
 github:
-  username: Hacker0x01
+  username: darkair999
 social:
   links:
     - https://twitter.com/Hacker0x01
     - https://www.facebook.com/Hacker0x01
     - https://www.linkedin.com/company/hackerone
-    - https://github.com/Hacker0x01
+    - https://github.com/darkair999
 
 plugins:
   - jekyll-redirect-from
